@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_frog",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_long_log",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_frog",
+  "name":"Obj_long_log",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_frog",
-    "path":"sprites/Spr_frog/Spr_frog.yy",
+    "name":"Spr_long_log",
+    "path":"sprites/Spr_long_log/Spr_long_log.yy",
   },
   "spriteMaskId":null,
   "visible":true,
